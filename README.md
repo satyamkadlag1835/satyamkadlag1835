@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm satyam kadlag</h1>
-<h3 align="center">Junior QA Engineer</h3>
+<h3 align="center">Junior QA Engineer | Manual Testing | API Testing</h3>
 
 
 
