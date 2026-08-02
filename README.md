@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm satyam kadlag</h1>
 <h3 align="center">Junior QA Engineer</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamkadlag1835" alt="satyamkadlag1835" /></a> </p>
-
 - 🔭 I’m currently working on **Learning API Automation with Postman**
 
 - 🌱 I’m currently learning **API Testing using Postman**
