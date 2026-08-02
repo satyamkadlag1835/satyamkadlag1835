@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm satyam kadlag</h1>
 <h3 align="center">Junior QA Engineer</h3>
 
-- 🔭 I’m currently working on **Learning API Automation with Postman**
+
 
 - 🌱 I’m currently learning **API Testing using Postman**
 
